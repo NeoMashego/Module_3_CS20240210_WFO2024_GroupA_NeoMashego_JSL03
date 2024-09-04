@@ -30,4 +30,4 @@ function cookSteak(steakWeight, desiredDoneness) {
   const result = cookSteak(16, 63); // Cook a 16 oz steak to medium-rare (63°C)
   console.log(result);
   
-//Declarative programming
+//Imperative    defines specific set of commands and runs it step by step. How to achieve goal
