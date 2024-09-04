@@ -33,6 +33,6 @@ function cookSteak(steakWeight, desiredDoneness) {
   
   cookSteak(16, 63); // Cook a 16 oz steak to medium-rare (63°C)
 
-  //Imperative Programming
-  //Co-operative programming
+  //Declarative   specifies result wanted and not how to get that code.
+  //what needs to be done but not how it should be done
   
